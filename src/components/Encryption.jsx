@@ -17,10 +17,10 @@ const Encryption = () => {
           <div className="h-full  flex flex-col justify-center items-center gap-16  w-full ">
             <div className="w-full flex flex-col justify-center items-center gap-4 md:gap-8 py-10 md:py-16">
               <p className="text-cyan-500 text-4xl md:text-6xl text-center">
-                Welcome To KIET
+                KIET's official 
               </p>
               <p className="text-4xl  md:text-7xl  text-slate-300 text-center">
-                Cyber Cell Team
+                Cyber squad
               </p>
             </div>
           </div>
